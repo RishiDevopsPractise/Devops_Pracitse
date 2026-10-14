@@ -1,1 +1,1 @@
-# Devops_Pracitse
+This is Rishi from Team Image
